@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadDataFromEmail", "ReadDataFromEmail\ReadDataFromEmail.csproj", "{DD330519-9171-41E3-9FE3-2A075AB10C62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD330519-9171-41E3-9FE3-2A075AB10C62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD330519-9171-41E3-9FE3-2A075AB10C62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD330519-9171-41E3-9FE3-2A075AB10C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD330519-9171-41E3-9FE3-2A075AB10C62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3463BD4D-DC65-48AA-8513-2F1BDD779F35}
+	EndGlobalSection
+EndGlobal
